@@ -2,4 +2,5 @@
 drum sounds that includes JS mostly using DOM\
 application of the following:\
 event listener -> for mouse and keyboard actions\
-queryselector -> selecting a element in html files
+queryselector -> selecting a element in html files\
+etting of attributes -> manipulating properties of the elements
